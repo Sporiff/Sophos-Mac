@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 mkdir /private/var/tmp/sophos
 cd /private/var/tmp/sophos
